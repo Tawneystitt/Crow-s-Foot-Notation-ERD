@@ -9,9 +9,7 @@
 - <b>MS Visio</b> 
 
 
-<p align="center">
-<br/>
-<img src="https://i.imgur.com/5OVDusB.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
+<img src="https://i.imgur.com/5GiJaZp.png" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
 
 <!--
  ```diff
